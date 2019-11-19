@@ -1,0 +1,18 @@
+.product-search-grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -30px;
+  width: auto;
+  margin-top: 10px;
+}
+
+.product-search-grid_column {
+  padding-left: 30px;
+  background-clip: padding-box;
+}
+
+.product-search-grid_column > div {
+  background: #fff;
+  margin-bottom: 30px;
+}

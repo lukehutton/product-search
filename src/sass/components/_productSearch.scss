@@ -1,0 +1,35 @@
+.product-search-keyword {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid $primary;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.product-search-button {
+  width: 100%;
+  font-size: 16px;
+  background-color: $primary;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.product-search-button:hover {
+  background-color: $primary-dark;
+}
+
+.product-search-loading {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.product-search-error {
+  color: #cd1519
+}
