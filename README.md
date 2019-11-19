@@ -2,6 +2,8 @@
 
 Built with React
 
+[Live Demo](https://react-product-search.herokuapp.com/)
+
 ### Installation
 
 Clone this repository and run from the root directory:
